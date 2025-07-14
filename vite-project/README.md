@@ -1,12 +1,29 @@
-# React + Vite
+# Mojito Demo Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a demo for learning how to use GSAP animations, Tailwind CSS, and React. It's a simple website that showcases some cool animations and effects.
 
-Currently, two official plugins are available:
+The website is built with React, and uses Tailwind CSS for styling. The animations are done using GSAP, which is an awesome JavaScript library for creating animations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The website is fully responsive, and works great on both desktop and mobile devices.
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Cool animations and effects using GSAP
+* Responsive design using Tailwind CSS
+* Built with React
+* Simple and easy to use
+
+## How to use
+
+1. Clone the repository
+2. Run `npm install` to install the dependencies
+3. Run `npm start` to start the development server
+4. Open your web browser and navigate to `http://localhost:3000`
+
+## Credits
+
+This project was built by [Your Name], and is licensed under the MIT License. See the LICENSE file for more information.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
